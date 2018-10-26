@@ -1,4 +1,4 @@
-# [Android-Developer-Nanodegree by Udacity](https://eu.udacity.com/course/android-developer-nanodegree-by-google--nd801)
+# Android-Developer-Nanodegree by Udacity
 
 # Projects:
   - Developing Android Apps
