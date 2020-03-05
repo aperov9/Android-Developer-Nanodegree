@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="XYZTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+    </style>
+
+    <style name="XYZTheme_with_actionbar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+    </style>
+
+</resources>

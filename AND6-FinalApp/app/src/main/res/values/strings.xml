@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Reddit Reader</string>
+    <string name="search_view">Search Subreddits</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!-- MAIN MENU -->
+    <string name="menu_popular">Popular</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_subreddits">Subscribed</string>
+
+    <!-- POST MENU -->
+    <string name="menu_open_link">Open Link</string>
+    <string name="menu_share_post">Share</string>
+
+    <!-- Content Descriptions for accessibility -->
+    <string name="post_score_content">Upvotes</string>
+    <string name="post_comments_content">Comments</string>
+    <string name="subreddit_favorite_content">Subscribe and unsubscribe Subreddit</string>
+</resources>

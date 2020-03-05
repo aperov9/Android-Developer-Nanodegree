@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimaryLight"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Reviews"
+        android:textSize="22sp"
+        android:textColor="@color/colorWhite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="6dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_reviews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

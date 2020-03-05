@@ -1,0 +1,26 @@
+<resources>
+    <!-- TITLES -->
+    <string name="app_name">Popular Movies</string>
+    <string name="activity_movieDetails">Movies Details</string>
+
+    <!-- MAIN MENU -->
+    <string name="menu_sortByPopularity">Popular</string>
+    <string name="menu_sortByRating">Best Rated</string>
+    <string name="menu_favorites">Favorites</string>
+
+    <string name="menu_refresh">Refresh</string>
+
+    <!-- DETAIL MENU -->
+    <string name="menu_favoriteMovie">Favorite</string>
+
+    <!-- Utilities -->
+    <string name="utilities_noInternet">No Internet Connection</string>
+    <string name="utilities_genericError">An error occurred, please retry later</string>
+
+    <!-- MOVIE DETAILS -->
+    <string name="movieDetails_rating">Rating: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

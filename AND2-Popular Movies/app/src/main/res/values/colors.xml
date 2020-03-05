@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3a4454</color>
+    <color name="colorPrimaryDark">#21262d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryLight">#485468</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <!-- vote ratings for movies -->
+    <color name="rating1">#ff3334</color>
+    <color name="rating2">#ff6634</color>
+    <color name="rating3">#ff9934</color>
+    <color name="rating4">#ffcc00</color>
+    <color name="rating5">#ffff67</color>
+    <color name="rating6">#ccff66</color>
+    <color name="rating7">#ccff34</color>
+    <color name="rating8">#99ff32</color>
+    <color name="rating9">#01cc34</color>
+
+
+</resources>
