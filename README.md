@@ -1,14 +1,18 @@
 # Android-Developer-Nanodegree
 
-# Projects:
+
 
 ## Sandwich Club
 
 Building a layout and populating its fields from data received as JSON is a common task for Android Developers. Although JSON parsing is usually done using libraries, writing the JSON parsing for this project will help you to better understand how it is processed.
 
+<img src="/Screenshots/SandwichClub/SandwichClub1.png" width="380"/>  <img src="/Screenshots/SandwichClub/SandwichClub2.png" width="380"/>
+
 ## Sunshine (by Udacity)
 
 In the first lesson of Developing Android Apps, you'll learn how to create and run your first simple Android app. In doing so, you'll explore how to create simple layouts for Android, how Android runs on the phone and the IDE Android Studio.
+
+<img src="/Screenshots/Sunshine/Sunshine1.png" width="380"/>  <img src="/Screenshots/Sunshine/Sunshine2.png" width="380"/>
 
 ## Popular Movies
 
@@ -16,11 +20,17 @@ To become an Android developer, you must know how to bring particular mobile exp
 
 By building this app, you will demonstrate your understanding of the foundational elements of programming for Android. Your app will communicate with the Internet and provide a responsive and delightful user experience.
 
+Note: For this app to work you need to have a themovieDB Api_Key. You can get it [here](https://www.themoviedb.org/). Add inside the StaticData class.
+
+<img src="/Screenshots/PopularMovies/PopularMovies1.png" width="380"/>  <img src="/Screenshots/PopularMovies/PopularMovies2.png" width="380"/>
+
 ## BakingApp
 
 As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app. Unlike Popular Movies where we gave you an implementation guide, it will be up to you to figure things out for the Baking App.
 
 You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
+
+<img src="/Screenshots/BakingApp/BakingApp1.png" width="380"/>  <img src="/Screenshots/BakingApp/BakingApp2.png" width="380"/>
 
 ## Build it bigger
 
@@ -28,12 +38,20 @@ As Android projects grow in complexity, it becomes necessary to customize the be
 
 In this project, you will create an app with multiple flavors that uses multiple libraries and Google Cloud Endpoints. The finished app will consist of four modules. A Java library that provides jokes, a Google Cloud Endpoints (GCE) project that serves those jokes, an Android Library containing an activity for displaying jokes, and an Android app that fetches jokes from the GCE module and passes them to the Android Library for display.
 
+<img src="/Screenshots/BuildItBigger/BuildItBigger.png"/>
+
 ## Material Design
 
 This project gives you an opportunity to improve an app’s design, a vital skill for building apps users will love. It also replicates a common developer task of updating and changing an app's design as new standards are released.
 
 In this project, you will redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
+
+<img src="/Screenshots/MaterialDesign/MaterialDesign1.png" width="380"/>  <img src="/Screenshots/MaterialDesign/MaterialDesign2.png" width="380"/>
+
+
 ## Capstone Project
 
 In this project, you will demonstrate the skills you've learned in your Nanodegree journey, and apply them to creating a unique app experience of your own. By the end of this project, you will have an app that you can submit to the Google Play Store for distribution.
+
+<img src="/Screenshots/FinalApp/FinalApp1.png" width="380"/>  <img src="/Screenshots/FinalApp/FinalApp2.png" width="380"/>
